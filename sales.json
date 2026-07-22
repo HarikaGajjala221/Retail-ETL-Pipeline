@@ -1,0 +1,29 @@
+[
+  {
+    "sale_id": 1001,
+    "customer_id": 101,
+    "product_id": "P101",
+    "quantity": 1,
+    "price": 65000,
+    "payment_mode": "Credit Card",
+    "sale_date": "2025-04-01"
+  },
+  {
+    "sale_id": 1002,
+    "customer_id": 102,
+    "product_id": "P103",
+    "quantity": 2,
+    "price": 2500,
+    "payment_mode": "UPI",
+    "sale_date": "2025-04-02"
+  },
+  {
+    "sale_id": 1003,
+    "customer_id": 104,
+    "product_id": "P106",
+    "quantity": 4,
+    "price": 350,
+    "payment_mode": "Cash",
+    "sale_date": "2025-04-03"
+  }
+]

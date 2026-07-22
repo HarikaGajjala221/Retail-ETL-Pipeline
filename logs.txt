@@ -1,0 +1,7 @@
+2025-04-01 09:15:10 INFO Customer data loaded successfully.
+2025-04-01 09:20:35 INFO Orders imported into MySQL.
+2025-04-01 09:25:42 INFO CSV uploaded to Databricks.
+2025-04-01 09:30:15 INFO Null values removed.
+2025-04-01 09:35:18 INFO Duplicate records removed.
+2025-04-01 09:40:40 INFO Delta table created successfully.
+2025-04-01 09:45:00 INFO ETL Job Completed Successfully.

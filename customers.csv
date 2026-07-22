@@ -1,0 +1,11 @@
+customer_id,name,email,city,state,registration_date
+101,John Smith,john.smith@email.com,Hyderabad,Telangana,2025-01-10
+102,Alice Johnson,alice.j@email.com,Bengaluru,Karnataka,2025-01-15
+103,Rahul Sharma,rahul.s@email.com,Chennai,Tamil Nadu,2025-01-20
+104,Priya Reddy,priya.r@email.com,Hyderabad,Telangana,2025-02-05
+105,David Wilson,david.w@email.com,Mumbai,Maharashtra,2025-02-12
+106,Sneha Gupta,sneha.g@email.com,Pune,Maharashtra,2025-02-20
+107,Arjun Kumar,arjun.k@email.com,Delhi,Delhi,2025-03-01
+108,Meera Nair,meera.n@email.com,Kochi,Kerala,2025-03-10
+109,Rohit Verma,rohit.v@email.com,Jaipur,Rajasthan,2025-03-18
+110,Sarah Thomas,sarah.t@email.com,Hyderabad,Telangana,2025-03-25
